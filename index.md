@@ -11,23 +11,8 @@ The courses I am taking this quater are:
 - [x] CSE 141 Introduction to Computer Architecture
 
 Each time when I facing an problem, I usually do: 
-# Analysis the Problem  
-## Thinking several methods to solove the problem, and choose the most efficient way
-### Solove the problem
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# 1.Analysis the Problem  
+## 2.Thinking several methods to solove the problem, and choose the most efficient way
+### 3.Solove the problem
 
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fengdi-liu/fengdi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
