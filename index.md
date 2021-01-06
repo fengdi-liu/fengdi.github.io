@@ -1,7 +1,7 @@
 ***Welcome to My Pages***
 
 
-![Image of myself](https://raw.githubusercontent.com/fengdi-liu/fengdi.github.io/gh-pages/12F82516-B402-479A-9D7C-5DA0C51475F0-9024-000005FB03F4BB0D_tmp.JPG) 
+![Image of myself](https://blog.hubspot.com/hubfs/famous-quotes.jpg) 
 
 My name is *Fengdi*, I am a CS major student in University of California San Diego. ~~Wish could be an good software developer once I granduate.~~ I always love and willing to learn the latest technology. I love hiking, tennis, and cooking. You can find me here: [LinkedIn](https://www.linkedin.com/in/fengdi-liu-ba380093/)
 
