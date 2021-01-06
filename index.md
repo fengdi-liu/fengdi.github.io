@@ -15,4 +15,25 @@ Each time when I facing an problem, I usually do:
 ## 2.Thinking several methods to solove the problem, and choose the most efficient way
 ### 3.Solove the problem
 
+The most basic git code are:
+```
+git status
+git add
+git commit
+git push
+
+```
+
+The most common C++ code is:
+```
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout<<"Hello World!"<<endl;
+  return 0;
+}
+
+```
+
 
