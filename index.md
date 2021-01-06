@@ -1,9 +1,10 @@
 ## Welcome to My Pages
 
+
+![Image of me](https://photos.google.com/photo/AF1QipOIFJa88bgDEkPglwUhOc4RSuvCmz52C6TJ0V2D) 
+
 My name is Fengdi Liu, I am a CS major student in University of California San Diego. I always love and willing to learn the latest technology. I love hiking, tennis, and cooking.
 
-
-[picture](https://photos.google.com/photo/AF1QipOIFJa88bgDEkPglwUhOc4RSuvCmz52C6TJ0V2D) 
 
 ### Markdown
 
