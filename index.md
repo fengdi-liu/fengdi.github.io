@@ -10,6 +10,10 @@ The courses I am taking this quater are:
 - [x] CSE 110 Software Enginnering 
 - [x] CSE 141 Introduction to Computer Architecture
 
+My favorite courses are:
+- CSE 100
+- CSE 12
+
 Each time when I facing an problem, I usually do: 
 # 1.Analysis the Problem  
 ## 2.Thinking several methods to solove the problem, and choose the most efficient way
